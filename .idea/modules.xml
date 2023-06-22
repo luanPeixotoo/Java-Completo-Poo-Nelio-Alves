@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Cap11/Cap11.iml" filepath="$PROJECT_DIR$/Cap11/Cap11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cap13/Cap13.iml" filepath="$PROJECT_DIR$/Cap13/Cap13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cap1ao7/Cap1ao7.iml" filepath="$PROJECT_DIR$/Cap1ao7/Cap1ao7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cap10/Ex_Lista/Ex_Lista.iml" filepath="$PROJECT_DIR$/Cap10/Ex_Lista/Ex_Lista.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cap10/Ex_Matrizes/Ex_Matrizes.iml" filepath="$PROJECT_DIR$/Cap10/Ex_Matrizes/Ex_Matrizes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cap10/Ex_Vetores/Ex_Vetores.iml" filepath="$PROJECT_DIR$/Cap10/Ex_Vetores/Ex_Vetores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Completo-Poo-Nelio-Alves.iml" filepath="$PROJECT_DIR$/.idea/Java-Completo-Poo-Nelio-Alves.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cap10/Pensionato/Pensionato.iml" filepath="$PROJECT_DIR$/Cap10/Pensionato/Pensionato.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Teste/Teste.iml" filepath="$PROJECT_DIR$/Teste/Teste.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cap8-9/alunoPOO/alunoPOO.iml" filepath="$PROJECT_DIR$/Cap8-9/alunoPOO/alunoPOO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cap8-9/contaBanco/contaBanco.iml" filepath="$PROJECT_DIR$/Cap8-9/contaBanco/contaBanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cap8-9/dolarPOO/dolarPOO.iml" filepath="$PROJECT_DIR$/Cap8-9/dolarPOO/dolarPOO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cap8-9/estoquePOO/estoquePOO.iml" filepath="$PROJECT_DIR$/Cap8-9/estoquePOO/estoquePOO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cap8-9/estudantePOO/estudantePOO.iml" filepath="$PROJECT_DIR$/Cap8-9/estudantePOO/estudantePOO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cap8-9/funcionarioPOO/funcionarioPOO.iml" filepath="$PROJECT_DIR$/Cap8-9/funcionarioPOO/funcionarioPOO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cap8-9/retanguloPOO/retanguloPOO.iml" filepath="$PROJECT_DIR$/Cap8-9/retanguloPOO/retanguloPOO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cap8-9/trianguloPOO/trianguloPOO.iml" filepath="$PROJECT_DIR$/Cap8-9/trianguloPOO/trianguloPOO.iml" />
+    </modules>
+  </component>
+</project>
